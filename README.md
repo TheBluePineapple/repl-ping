@@ -2,6 +2,7 @@
 - Clone this project
 - Change regex in corsOption object to your username so only your repls can ping it
 - Add name of repl to environment variable('names')
+- Make sure to change the version of node-fetch to ^2.6.6
 
 All you have to do is add the name to the slightly unnecessary env variable, and this piece of code to the project
 ```js
