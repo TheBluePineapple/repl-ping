@@ -1,5 +1,5 @@
 ## Instructions  
-- Clone this project
+- Clone [this project](https://replit.com/@Blu3Pineappl3/ping-1#index.js)
 - Change regex in corsOption object to your username so only your repls can ping it
 - Add name of repl to environment variable('names')
 - Make sure to change the version of node-fetch to ^2.6.6
