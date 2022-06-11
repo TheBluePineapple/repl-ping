@@ -5,6 +5,11 @@
 
 All you have to do is add the name to the slightly unnecessary env variable, and this piece of code to the project
 ```js
+const express = require('express');
+const app = express();
+const cors = require('cors');
+const fetch = require('node-fetch');/
+
               // ↓↓↓↓↓↓↓↓↓↓↓↓↓ replace with your username
 var username = "blu3pineappl3";
 
