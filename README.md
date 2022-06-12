@@ -28,3 +28,8 @@ app.listen(8080, () => {
   console.log('server started');
 });
 ```
+
+
+
+Additional tip:
+You can also get [free private repls](https://replit.com/@Blu3Pineappl3/Why-does-this-work-D#index.js) by puting your code in a secret, getting that secret, and calling eval on it.
